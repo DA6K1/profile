@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Dark]! 👋
 
 I'm a passionate developer with a love for Python, JavaScript, and open-source projects.
 
 ## 💻 Technologies & Tools:
-- Python | JavaScript | React | Node.js | Docker | Kubernetes
+- Python | JavaScript | React | Node.js 
 - Git | GitHub | GitLab
 - SQL | MongoDB
 
